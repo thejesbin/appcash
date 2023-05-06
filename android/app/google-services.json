@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "969791502222",
+    "project_id": "appcash-9dbb0",
+    "storage_bucket": "appcash-9dbb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969791502222:android:cafd4a9b1780d15e4416df",
+        "android_client_info": {
+          "package_name": "com.steycode.appcash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969791502222-t2f40mtl5j7o493j866k4uiaa229anhp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjtVVEcpjwsoVmsBhO6VwlYNfYqFKrrZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969791502222-t2f40mtl5j7o493j866k4uiaa229anhp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
